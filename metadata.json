@@ -1,0 +1,5 @@
+{
+  "name": "Page Master Interactive Novel",
+  "description": "An interactive novel chatbot where your choices shape the story. Provide a concept, and the Page Master AI will generate a unique narrative. Progress is saved in your browser's local storage, allowing you to continue your adventure anytime.",
+  "requestFramePermissions": []
+}
